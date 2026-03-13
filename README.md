@@ -1,6 +1,6 @@
 # WAVES-PLUGIN/rolePic
 
-- 一个适用于 [waves-plugin](https://github.com/Xinglingsuiyue/waves-plugin) 的鸣潮游戏数据查询面板图仓库，欢迎各位上传新的面板图（🈲18）
+- 一个适用于 [waves-plugin](https://github.com/Xinglingsuiyue/waves-plugin) 的鸣潮游戏数据查询面板图仓库，欢迎各位上传新的面板图（🈲18）图片扩展名需为.webp
 
 
 ## 安装
