@@ -23,7 +23,9 @@ git clone https://github.com/Xinglingsuiyue/rolePic.git ./plugins/waves-plugin/r
 ## 资源
 
 面板图均为网络采集或网友上传, 请勿用于商业用途, 仅供学习交流使用.
+
 如果这些图片侵犯了您的权益, 请及时联系我们删除
+
 本仓库只支持上传（4:3/16:9/3:2/7:5）这类横向图
 
 ## 许可证
